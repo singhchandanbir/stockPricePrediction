@@ -1,1 +1,1 @@
-# stockPricePrediction
+# StockPrice Prediction 
